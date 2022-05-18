@@ -1,0 +1,44 @@
+.heading {
+    width: 99.9%;
+    line-height: 2;
+    text-align: left;
+}
+
+.heading button {
+    float: right;
+    border-color: white;
+}
+
+#mariod {
+    width: 100%;
+    height: 750px;
+}
+
+#startGame, #status {
+    height: 50px;
+    width: 175px;
+    border-radius: 5px;
+    font-size: large;
+}
+
+.modal-dialog {
+    width: 90%;
+}
+
+.ins_img {
+    display: inline-block;
+    width: 45%;
+}
+
+h4 {
+    background-color: white;
+    line-height: 2;
+    margin: 0px;
+}
+
+video {
+    background-image: url("game_console.png");
+    background-size: cover;
+    background-position: center;
+    padding: 25px;
+}
